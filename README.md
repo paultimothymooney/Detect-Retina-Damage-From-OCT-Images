@@ -8,6 +8,8 @@ It is often difficult to obtain large datasets of medical images.  Here I demons
 
 See file: Detect_Retina_Damage_From_OCT_Images.ipynb
 
+To view this project, open the .ipynb file that is located within this repository. If on mobile, click "View Code" then click "Desktop Version" in order to find the .ipynb file.
+
   [1]: https://www.kaggle.com/dansbecker/transfer-learning
   [2]: https://i.imgur.com/uAjDIAs.png
 
