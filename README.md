@@ -6,6 +6,8 @@ It is often difficult to obtain large datasets of medical images.  Here I demons
 ![Performance Comparison: AI vs Human][2]
 
 
+See file: Detect_Retina_Damage_From_OCT_Images.ipynb
+
   [1]: https://www.kaggle.com/dansbecker/transfer-learning
   [2]: https://i.imgur.com/uAjDIAs.png
 
